@@ -84,15 +84,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasrinivass&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasrinivass&layout=compact&theme=dark" />
-</p>
-
----
-
 ### 🌐 Let’s Connect
 
 - 🔗 [LinkedIn](#)
