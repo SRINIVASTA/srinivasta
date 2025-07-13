@@ -1,96 +1,105 @@
-# 👋 Hi, I'm Appala Srinivas Tanakala
+<h1 align="center">Hi 👋, I'm Appala Srinivas Tanakala</h1>
+<h3 align="center">🚀 Data Scientist | 📊 FinTech & AI Explorer | 🇮🇳 Based in Visakhapatnam</h3>
 
-🎓 **Data Science Professional** | 📊 **AI/ML & Financial Analytics Expert** | 📍 Visakhapatnam, India  
-📞 8897415303 | 📧 tasrinivass@gmail.com | 🌐 [LinkedIn](#) • [Kaggle](#) • [GitHub](#)  
-🏠 **Preferred Location**: Remote / Work From Home (WFH)
-
----
-
-## 🧠 About Me
-
-I'm a Data Science professional with **3+ years of experience in machine learning, EDA, and AI** projects. Backed by **23 years** of work in **financial services, capital markets, and real estate**, I bring a rare blend of **business insight and technical acumen**.
-
-- 🔍 **Kaggle Contributor** with **medal-winning solutions**
-- 🧩 Skilled in **EDA**, **Predictive Modeling**, and **Visualization**
-- 💡 Strong foundation in **financial strategy**, **operations**, and **data transformation**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tasrinivass&label=Profile%20views&color=0e75b6&style=flat" alt="tasrinivass" />
+</p>
 
 ---
 
-## 🛠️ Core Skills & Tools
+### 🧑‍💼 About Me
 
-- **Languages & Tools**: Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Excel, Power BI  
-- **ML Skills**: Regression, Classification, Time Series, Feature Engineering, Visualization  
-- **Business Domains**: Financial Analytics, Stock Broking, Insurance, Real Estate  
-- **Soft Skills**: Leadership, Communication, Strategic Thinking, Risk Management
-
----
-
-## 🎓 Certifications
-
-- 📍 *AI/ML for Geodata Analysis* – IIRS / ISRO (Sep 2024)  
-- 📍 *Data Analyst / Business Analyst* – ExcelR (Mar 2022)  
-- 📍 *AI Masterclass* – ExcelR (Apr 2022)  
-- 📍 *Machine Learning* – Tata Steel (Apr 2020)  
-- 📍 *Digital Marketing* – Accenture (Apr 2020)  
-- 📍 *Electric Vehicle Design* – Pantechelearning (Jul 2022)  
+- 🎓 3+ years of experience in **machine learning** & **data analytics**
+- 💼 20+ years in **financial services, real estate, and capital markets**
+- 🥇 Kaggle contributor with medal-winning models  
+- 🔎 Expert in **EDA, forecasting, dashboards, and predictive modeling**
+- 💬 Ask me about **Python, Power BI, NumPy, pandas, scikit-learn**
+- 📫 Reach me at: `tasrinivass@gmail.com`
 
 ---
 
-## 🧪 Selected Projects
+### 🔧 Skills & Tools
 
-| 📌 Project | Description |
-|-----------|-------------|
-| 🎧 **Predict Podcast Listening Time** *(Kaggle - Bronze Medal)* | Built regression model with top 10% global rank |
-| 🗳️ **Andhra Pradesh Elections 2024 – Data Analysis** | Analyzed turnout, party performance & demographics |
-| 🏏 **ICC Men’s T20 World Cup EDA** | Extracted player- and match-level KPIs |
-| 🚢 **Titanic Survival Prediction** | 80%+ accuracy using logistic regression & decision trees |
+**Languages:**  
+`Python` | `SQL` | `Excel` | `Power BI`
 
-👉 More projects: [Kaggle Profile](#) | [GitHub Repos](#)
+**Libraries & Tools:**  
+`NumPy` | `pandas` | `matplotlib` | `seaborn` | `scikit-learn`
 
----
-
-## 💼 Experience
-
-**🔹 Data Scientist | Self-Employed** (Remote, May 2022 – Present)  
-- Solved 10+ real-world ML challenges on Kaggle  
-- Designed ML pipelines, published insights globally  
-
-**🔹 Sr. Manager – Sales | SVMS Constructions** (Aug 2019 – May 2022)  
-- Led product launches, pricing, sales ops  
-- Handled full customer lifecycle and event representation  
-
-**🔹 Data Analyst | IDA Automation (Fidelity Client)** (Jul 2017 – Aug 2019)  
-- Delivered dashboards, cleaned data for U.S. insurance client  
-
-**🔹 Branch Manager | Aditya Birla Money Ltd.** (Jul 2005 – Aug 2015)  
-- Managed ₹4 Cr daily turnover, team of 6+, all asset classes  
-
-Earlier roles at ICICI Bank, Steel City Securities, AMB Financials (2001–2005)
+**Domains:**  
+`Financial Analytics` | `Real Estate Data` | `Stock Market Prediction`
 
 ---
 
-## 🎖️ Honors & Achievements
+### 📘 Certifications
 
-- 🥉 **Bronze Medal – Santa 2024 Puzzle Challenge**, Kaggle (Feb 2025)  
-- 🥉 **Bronze Medal – Predict Podcast Listening Time**, Kaggle (Apr 2025)  
-- 🎯 Recognized in: AI Math Olympiad, Multilingual Chatbot Arena, Insurance Regression
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasrinivass&show_icons=true&theme=vision-friendly-dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasrinivass&layout=compact&theme=tokyonight)
+- 🛰️ *AI/ML for Geodata Analysis* – IIRS/ISRO  
+- 📊 *Data Analyst / Business Analyst* – ExcelR  
+- 🧠 *AI Masterclass* – ExcelR  
+- 🤖 *Machine Learning* – Tata Steel  
+- 💻 *Digital Marketing* – Accenture  
+- 🚘 *Electric Vehicle Design* – Pantechelearning  
 
 ---
 
-## 🌐 Connect With Me
+### 🧪 Data Science Projects
 
-- 📫 **Email**: tasrinivass@gmail.com  
-- 🔗 **LinkedIn**: [Click Here](#)  
-- 🧠 **Kaggle**: [Click Here](#)  
+| Project | Description |
+|--------|-------------|
+| 🎧 **Podcast Listener Time Prediction** | Top 10% on Kaggle | Regression with linear models and feature selection |
+| 🗳️ **Andhra Pradesh Elections EDA** | Visualized voter turnout & party performance |
+| 🏏 **ICC T20 World Cup Insights** | Match-wise data exploration & win prediction |
+| 🚢 **Titanic Survival Classifier** | 80%+ accuracy with logistic regression models |
+
+➡️ *Explore more on [Kaggle](#) or [GitHub](#)*
+
+---
+
+### 💼 Experience Snapshot
+
+**🔹 Data Scientist (Freelance)**  
+`May 2022 – Present`  
+🏠 Remote | Kaggle Competitor | ML Pipeline Developer
+
+**🔹 Senior Manager – SVMS Constructions**  
+`Aug 2019 – May 2022`  
+🏢 Real estate product launch, pricing strategy, client relations
+
+**🔹 Data Analyst – IDA Automation (Fidelity US Client)**  
+`Jul 2017 – Aug 2019`  
+📊 Delivered dashboards & cleaned U.S. title insurance data
+
+**🔹 Branch Manager – Aditya Birla Money Ltd.**  
+`Jul 2005 – Aug 2015`  
+📈 Managed ₹4Cr daily equity turnover & led a 6-member sales team
+
+---
+
+### 🏆 Highlights & Achievements
+
+- 🥉 Bronze Medal – *Santa 2024 Puzzle Challenge*, Kaggle  
+- 🥉 Bronze Medal – *Podcast Listening Time*, Kaggle  
+- 🧠 Contributor to *AI Math Olympiad* & *Insurance Regression Arena*  
+- 🎖️ Strong record of cross-domain learning & innovation
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasrinivass&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasrinivass&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 🌐 Let’s Connect
+
+- 🔗 [LinkedIn](#)
+- 🧠 [Kaggle](#)
+- 📬 **Email**: tasrinivass@gmail.com  
 - 💼 **GitHub**: [github.com/tasrinivass](https://github.com/tasrinivass)
 
 ---
 
-> “Combining 23 years of industry experience with cutting-edge AI—building data-driven solutions that matter.”
+> 💡 *“Bridging two decades of financial wisdom with modern AI to deliver real-world, data-powered solutions.”*
