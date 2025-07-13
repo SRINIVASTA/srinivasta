@@ -48,9 +48,6 @@ Interactive Streamlit dashboard for analyzing S&P 30 stock trends using **Plot
 ### 📈 [Nifty 50 Stock Analysis Dashboard](https://github.com/tasrinivass/nifty50-stock-analysis)  
 Streamlit dashboard delivering analytical insights for **Nifty 50**—volatility, trends, and sector performance with **Plotly**.
 
-### 📄 [My Professional CV](https://github.com/tasrinivass/resume)  
-My full professional resume in PDF format — showcasing 🛠️ skills, 💼 experience, 🎓 education, and 🚀 key projects.
-
 ### 🎨 [Gemini AI Image Generator](https://github.com/tasrinivass/gemini-image-generator)  
 An AI-powered image generator using **Google Gemini API**, built with Streamlit — create stunning visuals from prompts.
 
@@ -84,18 +81,6 @@ An AI-powered image generator using **Google Gemini API**, built with Streamlit 
 - 🥉 Bronze – *Predict Podcast Listening Time*, Kaggle  
 - 🧠 Contributor – AI Math Olympiad & Insurance Regression Arena  
 - 🎯 Expert at combining industry knowledge with AI-driven solutions
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasrinivass&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tasrinivass&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasrinivass&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
