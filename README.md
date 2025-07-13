@@ -53,6 +53,23 @@ An AI-powered image generator using **Google Gemini API**, built with Streamlit 
 
 ---
 
+### 🚀 Featured Streamlit Projects
+
+#### 🤖 [Multi-Agent Chatbot](https://multi-agent-chatbot-yv35yj5g7obpbibcxnwrme.streamlit.app/)
+AI-powered chatbot with multiple agents, using Google Gemini + OpenWeather API 🌤️. Smart, interactive, and publicly deployable in minutes.
+
+#### 🖼️ [Photo Background Changer](https://photo-bg-changer-kdrxyvhjx3ibr4ccoddm3f.streamlit.app/)
+Upload an image and replace its background using AI. Great for profile pictures, product images, and creative editing!
+
+#### 📈 [Nifty 50 Stock Analysis](https://nifty50-stock-analysis-cyuz5gmnyxcd48pfxszwdy.streamlit.app/)
+Interactive dashboard for analyzing trends and performance of Nifty 50 stocks using Plotly — perfect for financial insights.
+
+#### 🎨 [Gemini AI Image Generator](https://gemini-image-generator-bdyowfxxqb4q5htbrrgjzv.streamlit.app/)
+Generate stunning visuals using Google Gemini’s generative image models. Customize with prompts and styles through a clean UI.
+
+
+---
+
 ### 💼 Experience Snapshot
 
 **🔹 Data Scientist (Freelance)**  
