@@ -9,87 +9,102 @@
 
 ### 🧑‍💼 About Me
 
-- 🎓 3+ years of experience in **machine learning** & **data analytics**
-- 💼 20+ years in **financial services, real estate, and capital markets**
+- 🎓 **3+ years** of experience in Machine Learning & Data Analytics  
+- 💼 **20+ years** in financial services, real estate, and capital markets  
 - 🥇 Kaggle contributor with medal-winning models  
-- 🔎 Expert in **EDA, forecasting, dashboards, and predictive modeling**
-- 💬 Ask me about **Python, Power BI, NumPy, pandas, scikit-learn**
-- 📫 Reach me at: `tasrinivass@gmail.com`
+- 🔎 Expert in EDA, forecasting, dashboards & predictive modeling  
+- 💬 Proficient with Python, SQL, Power BI, pandas & scikit-learn  
+- 📫 Reach me at: [tasrinivass@gmail.com](mailto:tasrinivass@gmail.com)
 
 ---
 
 ### 🔧 Skills & Tools
 
-**Languages:**  
-`Python` | `SQL` | `Excel` | `Power BI`
-
-**Libraries & Tools:**  
-`NumPy` | `pandas` | `matplotlib` | `seaborn` | `scikit-learn`
-
-**Domains:**  
-`Financial Analytics` | `Real Estate Data` | `Stock Market Prediction`
+**Languages:** `Python` | `SQL` | `Excel` | `Power BI`  
+**Libraries & Tools:** `NumPy` | `pandas` | `matplotlib` | `seaborn` | `scikit-learn`  
+**Domains:** `Financial Analytics` | `Real Estate Data` | `Stock Market Prediction`  
 
 ---
 
 ### 📘 Certifications
 
-- 🛰️ *AI/ML for Geodata Analysis* – IIRS/ISRO  
-- 📊 *Data Analyst / Business Analyst* – ExcelR  
-- 🧠 *AI Masterclass* – ExcelR  
-- 🤖 *Machine Learning* – Tata Steel  
-- 💻 *Digital Marketing* – Accenture  
-- 🚘 *Electric Vehicle Design* – Pantechelearning  
+- 🛰️ *AI/ML for Geodata Analysis* – IIRS/ISRO (Sep 2024)  
+- 📊 *Data Analyst / Business Analyst* – ExcelR (Mar 2022)  
+- 🧠 *AI Masterclass* – ExcelR (Apr 2022)  
+- 🤖 *Machine Learning* – Tata Steel (Apr 2020)  
+- 💻 *Digital Marketing* – Accenture (Apr 2020)  
+- 🚘 *Electric Vehicle Design* – Pantechelearning (Jul 2022)
 
 ---
 
-### 🧪 Data Science Projects
+### 🔍 Projects I’m Proud Of
 
-| Project | Description |
-|--------|-------------|
-| 🎧 **Podcast Listener Time Prediction** | Top 10% on Kaggle | Regression with linear models and feature selection |
-| 🗳️ **Andhra Pradesh Elections EDA** | Visualized voter turnout & party performance |
-| 🏏 **ICC T20 World Cup Insights** | Match-wise data exploration & win prediction |
-| 🚢 **Titanic Survival Classifier** | 80%+ accuracy with logistic regression models |
+### 🤖 [Multi-Agent Chatbot](https://github.com/tasrinivass/multi-agent-chatbot)  
+A multi-agent chatbot built with **Streamlit**, powered by **Google Gemini AI** + **OpenWeather API** 🌤️ — smart, interactive, and deployable in minutes.
 
-➡️ *Explore more on [Kaggle](#) or [GitHub](#)*
+### 📈 [SnP30 Stock Analysis Dashboard](https://github.com/tasrinivass/SnP30-stock-analysis)  
+Interactive Streamlit dashboard for analyzing S&P 30 stock trends using **Plotly** — covers volatility, trends, and sector insights.
+
+### 📈 [Nifty 50 Stock Analysis Dashboard](https://github.com/tasrinivass/nifty50-stock-analysis)  
+Streamlit dashboard delivering analytical insights for **Nifty 50**—volatility, trends, and sector performance with **Plotly**.
+
+### 📄 [My Professional CV](https://github.com/tasrinivass/resume)  
+My full professional resume in PDF format — showcasing 🛠️ skills, 💼 experience, 🎓 education, and 🚀 key projects.
+
+### 🎨 [Gemini AI Image Generator](https://github.com/tasrinivass/gemini-image-generator)  
+An AI-powered image generator using **Google Gemini API**, built with Streamlit — create stunning visuals from prompts.
 
 ---
 
 ### 💼 Experience Snapshot
 
 **🔹 Data Scientist (Freelance)**  
-`May 2022 – Present`  
-🏠 Remote | Kaggle Competitor | ML Pipeline Developer
+*May 2022 – Present*  
+🏠 Remote | Kaggle competitor | Designed end‑to‑end ML pipelines
 
 **🔹 Senior Manager – SVMS Constructions**  
-`Aug 2019 – May 2022`  
-🏢 Real estate product launch, pricing strategy, client relations
+*Aug 2019 – May 2022*  
+🏢 Managed real‑estate products, pricing, launches & client relations
 
 **🔹 Data Analyst – IDA Automation (Fidelity US Client)**  
-`Jul 2017 – Aug 2019`  
+*Jul 2017 – Aug 2019*  
 📊 Delivered dashboards & cleaned U.S. title insurance data
 
 **🔹 Branch Manager – Aditya Birla Money Ltd.**  
-`Jul 2005 – Aug 2015`  
-📈 Managed ₹4Cr daily equity turnover & led a 6-member sales team
+*Jul 2005 – Aug 2015*  
+📈 Led ₹4 Cr daily equity turnover & 6‑member sales team
+
+*(Earlier roles: ICICI Bank, Steel City Securities, AMB Financials – 2001–2005)*
 
 ---
 
 ### 🏆 Highlights & Achievements
 
-- 🥉 Bronze Medal – *Santa 2024 Puzzle Challenge*, Kaggle  
-- 🥉 Bronze Medal – *Podcast Listening Time*, Kaggle  
-- 🧠 Contributor to *AI Math Olympiad* & *Insurance Regression Arena*  
-- 🎖️ Strong record of cross-domain learning & innovation
+- 🥉 Bronze – *Santa 2024 Puzzle Challenge*, Kaggle  
+- 🥉 Bronze – *Predict Podcast Listening Time*, Kaggle  
+- 🧠 Contributor – AI Math Olympiad & Insurance Regression Arena  
+- 🎯 Expert at combining industry knowledge with AI-driven solutions
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasrinivass&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tasrinivass&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasrinivass&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🌐 Let’s Connect
 
-- 🔗 [LinkedIn](#)
-- 🧠 [Kaggle](#)
-- 📬 **Email**: tasrinivass@gmail.com  
-- 💼 **GitHub**: [github.com/tasrinivass](https://github.com/tasrinivass)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-t-a-557637119/)  
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/srinivasta)  
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasrinivass@gmail.com)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tasrinivass)
 
 ---
 
