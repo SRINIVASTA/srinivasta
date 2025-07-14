@@ -67,7 +67,7 @@ Interactive dashboard for analyzing trends and performance of Nifty 50 stocks us
 #### 🎨 [Gemini AI Image Generator](https://gemini-image-generator-bdyowfxxqb4q5htbrrgjzv.streamlit.app/)
 Generate stunning visuals using Google Gemini’s generative image models. Customize with prompts and styles through a clean UI.
 
-🚀 AI Super Tool
+#### 🚀 [AI Super Tool](https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app/)
 All-in-one AI platform combining Google Gemini, file analysis, and image generation. Ask questions, generate Python code, summarize text, and create images with a sleek UI.
 
 
