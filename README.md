@@ -70,7 +70,14 @@ Generate stunning visuals using Google Gemini’s generative image models. Custo
 #### 🚀 [AI Super Tool](https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app/)
 All-in-one AI platform combining Google Gemini, file analysis, and image generation. Ask questions, generate Python code, summarize text, and create images with a sleek UI.
 
+#### 🚀 [AI Super Tool](https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app/)
+All-in-one AI platform combining Google Gemini, file analysis, and image generation. Ask questions, generate Python code, summarize text, and create images with a sleek UI.
 
+#### [📊 Real-time Sales Dashboard](https://real-time-sales-dashboard-key6zivh5fnkane3t8x6v2.streamlit.app/) 
+Track live sales, performance metrics, revenue trends, and team progress in one dynamic, interactive view! 🚀💼📈
+
+
+Ask ChatGPT
 
 ---
 
