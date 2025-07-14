@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Appala Srinivas Tanakala</h1>
-<h3 align="center">🚀 Data Scientist | 📊 FinTech & AI Explorer | 🇮🇳 Based in Visakhapatnam</h3>
+<h3 align="center">🚀 Data Scientist | 🧠 AI + FinTech Explorer | 🛠️ Streamlit Dev on GitHub | 🇮🇳 Visakhapatnam</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tasrinivass&label=Profile%20views&color=0e75b6&style=flat" alt="tasrinivass" />
