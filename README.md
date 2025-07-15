@@ -77,6 +77,11 @@ All-in-one AI platform combining Google Gemini, file analysis, and image generat
 Track live sales, performance metrics, revenue trends, and team progress in one dynamic, interactive view! 🚀💼📈
 
 
+#### [📈 Stock Analysis Dashboard](https://stockanalysis-mnqhv79yzkrrkai85vft8a.streamlit.app/) 
+Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
+
+
+
 Ask ChatGPT
 
 ---
