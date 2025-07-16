@@ -40,6 +40,9 @@
 ## 🔍 Projects I’m Proud Of
 ## 🚀 Featured Streamlit Projects
 
+### [📈 Stock Analysis Dashboard](https://stockanalysis-mnqhv79yzkrrkai85vft8a.streamlit.app/) 
+Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
+
 ### 🤖 [Multi-Agent Chatbot](https://multi-agent-chatbot-yv35yj5g7obpbibcxnwrme.streamlit.app/)
 AI-powered chatbot with multiple agents, using Google Gemini + OpenWeather API 🌤️. Smart, interactive, and publicly deployable in minutes.
 
@@ -57,10 +60,6 @@ All-in-one AI platform combining Google Gemini, file analysis, and image generat
 
 ### [📊 Real-time Sales Dashboard](https://real-time-sales-dashboard-key6zivh5fnkane3t8x6v2.streamlit.app/) 
 Track live sales, performance metrics, revenue trends, and team progress in one dynamic, interactive view! 🚀💼📈
-
-### [📈 Stock Analysis Dashboard](https://stockanalysis-mnqhv79yzkrrkai85vft8a.streamlit.app/) 
-Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
-
 
 ---
 
