@@ -41,11 +41,7 @@
 ## 🚀 Featured Streamlit Projects
 
 ### 🤖 [Quantum AI Portfolio](https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/)
-
 A smart AI-powered crypto portfolio tracker that provides insights, real-time data, and automated portfolio management — all in one intuitive dashboard! 🚀📊🔮
-
-[![Open in Streamlit](https://img.shields.io/badge/Open_in-Streamlit-6e40c9?style=for-the-badge&logo=streamlit&logoColor=white)](https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/)
-
 
 ### [📈 Stock Analysis Dashboard](https://stockanalysis-mnqhv79yzkrrkai85vft8a.streamlit.app/) 
 Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
