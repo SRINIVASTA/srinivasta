@@ -40,37 +40,29 @@
 ## 🔍 Projects I’m Proud Of  
 ## 🚀 Featured Streamlit Projects
 
-### 🤖 [Quantum AI Portfolio](https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/)  
-A smart AI-powered crypto portfolio tracker that provides insights, real-time data, and automated portfolio management — all in one intuitive dashboard! 🚀📊🔮  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=quantum-ai-portfolio)
+### 🤖 [Quantum AI Portfolio](https://my-vercel-project.vercel.app/api/redirect?app=quantum-ai-portfolio)
+A smart AI-powered crypto portfolio tracker that provides insights, real-time data, and automated portfolio management — all in one intuitive dashboard! 🚀📊🔮
 
-### [📈 Stock Analysis Dashboard](https://stockanalysis-mnqhv79yzkrrkai85vft8a.streamlit.app/)  
-Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=stock-analysis-dashboard)
+### 📈 [Stock Analysis Dashboard](https://my-vercel-project.vercel.app/api/redirect?app=stock-analysis-dashboard)
+Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
 
-### 🤖 [Multi-Agent Chatbot](https://multi-agent-chatbot-yv35yj5g7obpbibcxnwrme.streamlit.app/)  
-AI-powered chatbot with multiple agents, using Google Gemini + OpenWeather API 🌤️. Smart, interactive, and publicly deployable in minutes.  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=multi-agent-chatbot)
+### 🤖 [Multi-Agent Chatbot](https://my-vercel-project.vercel.app/api/redirect?app=multi-agent-chatbot)
+AI-powered chatbot with multiple agents, using Google Gemini + OpenWeather API 🌤️. Smart, interactive, and publicly deployable in minutes.
 
-### 🖼️ [Photo Background Changer](https://photo-bg-changer-kdrxyvhjx3ibr4ccoddm3f.streamlit.app/)  
-Upload an image and replace its background using AI. Great for profile pictures, product images, and creative editing!  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=photo-background-changer)
+### 🖼️ [Photo Background Changer](https://my-vercel-project.vercel.app/api/redirect?app=photo-background-changer)
+Upload an image and replace its background using AI. Great for profile pictures, product images, and creative editing!
 
-### 📈 [Nifty 50 Stock Analysis](https://nifty50-stock-analysis-cyuz5gmnyxcd48pfxszwdy.streamlit.app/)  
-Interactive dashboard for analyzing trends and performance of Nifty 50 stocks using Plotly — perfect for financial insights.  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nifty50-stock-analysis)
+### 📈 [Nifty 50 Stock Analysis](https://my-vercel-project.vercel.app/api/redirect?app=nifty50-stock-analysis)
+Interactive dashboard for analyzing trends and performance of Nifty 50 stocks using Plotly — perfect for financial insights.
 
-### 🎨 [Gemini AI Image Generator](https://gemini-image-generator-bdyowfxxqb4q5htbrrgjzv.streamlit.app/)  
-Generate stunning visuals using Google Gemini’s generative image models. Customize with prompts and styles through a clean UI.  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gemini-ai-image-generator)
+### 🎨 [Gemini AI Image Generator](https://my-vercel-project.vercel.app/api/redirect?app=gemini-ai-image-generator)
+Generate stunning visuals using Google Gemini’s generative image models. Customize with prompts and styles through a clean UI.
 
-### 🚀 [AI Super Tool](https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app/)  
-All-in-one AI platform combining Google Gemini, file analysis, and image generation. Ask questions, generate Python code, summarize text, and create images with a sleek UI.  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ai-super-tool)
+### 🚀 [AI Super Tool](https://my-vercel-project.vercel.app/api/redirect?app=ai-super-tool)
+All-in-one AI platform combining Google Gemini, file analysis, and image generation. Ask questions, generate Python code, summarize text, and create images with a sleek UI.
 
-### [📊 Real-time Sales Dashboard](https://real-time-sales-dashboard-key6zivh5fnkane3t8x6v2.streamlit.app/)  
-Track live sales, performance metrics, revenue trends, and team progress in one dynamic, interactive view! 🚀💼📈  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=real-time-sales-dashboard)
+### 📊 [Real-time Sales Dashboard](https://my-vercel-project.vercel.app/api/redirect?app=real-time-sales-dashboard)
+Track live sales, performance metrics, revenue trends, and team progress in one dynamic, interactive view! 🚀💼📈
 ---
 
 ### 💼 Experience Snapshot
