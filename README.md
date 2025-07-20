@@ -40,6 +40,9 @@
 ## 🔍 Projects I’m Proud Of  
 ## 🚀 Featured Streamlit Projects
 
+### 📈 [Stock Analysis Combo](https://stock-analysis-combo-xhsq3hbjww5wcplqsnxhog.streamlit.app/)  
+Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
+
 ### 🤖 [Quantum AI Portfolio](https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/)  
 A smart AI-powered crypto portfolio tracker that provides insights, real-time data, and automated portfolio management — all in one intuitive dashboard! 🚀📊🔮  
 
