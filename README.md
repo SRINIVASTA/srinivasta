@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Appala Srinivas Tanakala</h1>
 <h3 align="center">🚀 Data Scientist | 🧠 AI + FinTech Explorer | 🛠️ Streamlit Dev on GitHub | 🇮🇳 Visakhapatnam</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tasrinivass&label=Profile%20views&color=0e75b6&style=flat" alt="tasrinivass" />
-</p>
-
 ---
 
 ### 🧑‍💼 About Me
@@ -42,13 +38,6 @@
 
 ### 📈 [Stock Analysis Combo](https://stock-analysis-combo-xhsq3hbjww5wcplqsnxhog.streamlit.app/)  
 Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
-
-### 📈 [Stock Analysis Combo](https://bit.ly/your-custom-link)  
-Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tasrinivass&label=Profile%20views&color=0e75b6&style=flat" alt="tasrinivass" />
-</p>
 
 ### 🤖 [Quantum AI Portfolio](https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/)  
 A smart AI-powered crypto portfolio tracker that provides insights, real-time data, and automated portfolio management — all in one intuitive dashboard! 🚀📊🔮  
