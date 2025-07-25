@@ -43,6 +43,54 @@
 ### 📈 [Stock Analysis Combo](https://stock-analysis-combo-xhsq3hbjww5wcplqsnxhog.streamlit.app/)  
 Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
 
+import React, { useState } from 'react';
+
+const StockAnalysisSection: React.FC = () => {
+  const [showStockAnalysis, setShowStockAnalysis] = useState(false);
+
+  const toggleSection = () => setShowStockAnalysis(!showStockAnalysis);
+
+  return (
+    <div className="mt-10 text-center">
+      <button
+        onClick={toggleSection}
+        className="bg-cyan-700 hover:bg-cyan-600 text-white font-semibold py-2 px-4 rounded shadow"
+      >
+        {showStockAnalysis ? 'Hide Stock Analysis' : 'View Stock Analysis Tool'}
+      </button>
+
+      {showStockAnalysis && (
+        <div className="mt-6">
+          <h2 className="text-2xl font-bold text-blue-300 mb-2">
+            📈 <a
+              href="https://stock-analysis-combo-xhsq3hbjww5wcplqsnxhog.streamlit.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-cyan-400"
+            >
+              Stock Analysis Combo
+            </a>
+          </h2>
+          <p className="text-slate-400 text-sm max-w-xl mx-auto">
+            Analyze stock performance across major exchanges with interactive charts, technical indicators,
+            and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
+          </p>
+          <div className="mt-4">
+            <img
+              src="https://komarev.com/ghpvc/?username=tasrinivass&label=Profile%20views&color=0e75b6&style=flat"
+              alt="tasrinivass profile views"
+              className="mx-auto"
+            />
+          </div>
+        </div>
+      )}
+    </div>
+  );
+};
+
+export default StockAnalysisSection;
+
+
 ### 🤖 [Quantum AI Portfolio](https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/)  
 A smart AI-powered crypto portfolio tracker that provides insights, real-time data, and automated portfolio management — all in one intuitive dashboard! 🚀📊🔮  
 
