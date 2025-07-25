@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Appala Srinivas Tanakala</h1>
-<h3 align="center">🇮🇳🚀 Data Scientist | 🧠 AI + FinTech Explorer | 🛠️ Streamlit Dev on GitHub | 🇮🇳 Visakhapatnam</h3>
 <h3 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="24" height="18" style="vertical-align:middle;" />
   🚀 <b>Data Scientist</b> | 🧠 <b>AI + FinTech Explorer</b> | 🛠️ <b>Streamlit Dev on GitHub</b> | 🌊 <b>Visakhapatnam</b>
