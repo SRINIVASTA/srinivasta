@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Appala Srinivas Tanakala</h1>
-<h3 align="center">🚀 Data Scientist | 🧠 AI + FinTech Explorer | 🛠️ Streamlit Dev on GitHub | 🇮🇳 Visakhapatnam</h3>
+<h3 align="center">🇮🇳🚀 Data Scientist | 🧠 AI + FinTech Explorer | 🛠️ Streamlit Dev on GitHub | 🇮🇳 Visakhapatnam</h3>
 
 ---
 
