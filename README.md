@@ -12,7 +12,7 @@
 - 💼 **20+ years** in financial services, real estate, and capital markets  
 - 🥇 Kaggle contributor with medal-winning models  
 - 🔎 Expert in EDA, forecasting, dashboards & predictive modeling  
-- 💬 Proficient with Python, SQL, Power BI, pandas & scikit-learn  
+- 💬 Proficient with Python, SQL, Tableau, pandas & scikit-learn  
 - 📫 Reach me at: [tasrinivass@gmail.com](mailto:tasrinivass@gmail.com)
 
 ---
