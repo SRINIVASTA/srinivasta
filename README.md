@@ -42,20 +42,14 @@
 ### 📈 [Stock Analysis Combo](https://stock-analysis-combo-xhsq3hbjww5wcplqsnxhog.streamlit.app/)  
 Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
 
-### 🤖 [Quantum AI Portfolio](https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/)  
-A smart AI-powered crypto portfolio tracker that provides insights, real-time data, and automated portfolio management — all in one intuitive dashboard! 🚀📊🔮  
+### 📈 [🌡️ Temperature Forecasting App](https://temperature-forecasting-app-itq4vty2sx93s6bmpzrsgm.streamlit.app/)  
+Get accurate temperature predictions for cities worldwide ML Models, real-time weather data, and an intuitive interactive dashboard! ☀️🌧️🌍📊
 
-### [📈 Stock Analysis Dashboard](https://stockanalysis-mnqhv79yzkrrkai85vft8a.streamlit.app/)  
-Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀  
+### 📈 [❤️ Heart Failure Prediction](https://heartfailure-gaufwbwfmh2j2u8ytzfmm5.streamlit.app/)  
+Predict heart failure risk with a smart machine learning model based on personal health and lifestyle data — empowering early intervention and awareness! 🩺📉💓⚕️
 
 ### 🤖 [Multi-Agent Chatbot](https://multi-agent-chatbot-yv35yj5g7obpbibcxnwrme.streamlit.app/)  
 AI-powered chatbot with multiple agents, using Google Gemini + OpenWeather API 🌤️. Smart, interactive, and publicly deployable in minutes.  
-
-### 🖼️ [Photo Background Changer](https://photo-bg-changer-kdrxyvhjx3ibr4ccoddm3f.streamlit.app/)  
-Upload an image and replace its background using AI. Great for profile pictures, product images, and creative editing!  
-
-### 📈 [Nifty 50 Stock Analysis](https://nifty50-stock-analysis-cyuz5gmnyxcd48pfxszwdy.streamlit.app/)  
-Interactive dashboard for analyzing trends and performance of Nifty 50 stocks using Plotly — perfect for financial insights.  
 
 ### 🎨 [Gemini AI Image Generator](https://gemini-image-generator-bdyowfxxqb4q5htbrrgjzv.streamlit.app/)  
 Generate stunning visuals using Google Gemini’s generative image models. Customize with prompts and styles through a clean UI.  
@@ -65,6 +59,19 @@ All-in-one AI platform combining Google Gemini, file analysis, and image generat
 
 ### [📊 Real-time Sales Dashboard](https://real-time-sales-dashboard-key6zivh5fnkane3t8x6v2.streamlit.app/)  
 Track live sales, performance metrics, revenue trends, and team progress in one dynamic, interactive view! 🚀💼📈  
+
+### 🖼️ [Photo Background Changer](https://photo-bg-changer-kdrxyvhjx3ibr4ccoddm3f.streamlit.app/)  
+Upload an image and replace its background using AI. Great for profile pictures, product images, and creative editing!  
+
+### 🤖 [Quantum AI Portfolio](https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/)  
+A smart AI-powered crypto portfolio tracker that provides insights, real-time data, and automated portfolio management — all in one intuitive dashboard! 🚀📊🔮  
+
+### [📈 Stock Analysis Dashboard](https://stockanalysis-mnqhv79yzkrrkai85vft8a.streamlit.app/)  
+Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀  
+
+### 📈 [Nifty 50 Stock Analysis](https://nifty50-stock-analysis-cyuz5gmnyxcd48pfxszwdy.streamlit.app/)  
+Interactive dashboard for analyzing trends and performance of Nifty 50 stocks using Plotly — perfect for financial insights.  
+
 ---
 
 ### 💼 Experience Snapshot
