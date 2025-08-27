@@ -45,6 +45,9 @@ Analyze stock performance across major exchanges with interactive charts, techni
 ### 📈 [📊 ConstructAI Dashboard](https://gfxbyvznuvhyqbxwwyj4os.streamlit.app/)  
 Manage construction projects efficiently with interactive tools like the Floor Plan Visualizer and Productivity Reporter — powered by AI to streamline reporting, visualize progress, and boost on-site productivity! 🏗️📐🤖📈
 
+### 📈 [🎥 Gemini YouTube Video Summarizer](https://geminitubesummarizer-5ra24rq4meqoogtkfbzpzt.streamlit.app/)  
+Summarize any YouTube video — even Shorts — with AI-powered precision. Built with Google Gemini, this tool delivers clean, concise video summaries in seconds to help you learn faster and skip the fluff! 🤖🧠⏱️🔗
+
 ### 📈 [🌡️ Temperature Forecasting App](https://temperature-forecasting-app-itq4vty2sx93s6bmpzrsgm.streamlit.app/)  
 Get accurate temperature predictions for cities worldwide ML Models, real-time weather data, and an intuitive interactive dashboard! ☀️🌧️🌍📊
 
