@@ -39,7 +39,7 @@
 ## 🔍 Projects I’m Proud Of  
 ## 🚀 Featured Streamlit Projects
 
-### 📈 [Stock Analysis Combo](https://stock-analysis-combo-xhsq3hbjww5wcplqsnxhog.streamlit.app/)  
+### 📈 [Stock Analysis Combo](https://stock-analysis-combo-c7zmpbn2skp5h8rnrpchdy.streamlit.app/)  
 Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
 
 ### 📈 [🌡️ Temperature Forecasting App](https://temperature-forecasting-app-itq4vty2sx93s6bmpzrsgm.streamlit.app/)  
