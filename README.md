@@ -42,6 +42,9 @@
 ### 📈 [Stock Analysis Combo](https://stock-analysis-combo-c7zmpbn2skp5h8rnrpchdy.streamlit.app/)  
 Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
 
+### 📈 [📊 ConstructAI Dashboard](https://gfxbyvznuvhyqbxwwyj4os.streamlit.app/)  
+Manage construction projects efficiently with interactive tools like the Floor Plan Visualizer and Productivity Reporter — powered by AI to streamline reporting, visualize progress, and boost on-site productivity! 🏗️📐🤖📈
+
 ### 📈 [🌡️ Temperature Forecasting App](https://temperature-forecasting-app-itq4vty2sx93s6bmpzrsgm.streamlit.app/)  
 Get accurate temperature predictions for cities worldwide ML Models, real-time weather data, and an intuitive interactive dashboard! ☀️🌧️🌍📊
 
