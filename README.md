@@ -39,6 +39,9 @@
 ## 🔍 Projects I’m Proud Of  
 ## 🚀 Featured Streamlit Projects
 
+### 📈 [Multi Stock Predictor App](https://stock-predictor-app-cqwmt2o3nwmpti92u8n7j2.streamlit.app/)  
+AI-powered Streamlit app predicting stocks, crypto, forex & commodities 📈💹 + news summaries 📰🤖 for traders & learners! 🚀
+
 ### 📈 [Stock Analysis Combo](https://stock-analysis-combo-c7zmpbn2skp5h8rnrpchdy.streamlit.app/)  
 Analyze stock performance across major exchanges with interactive charts, technical indicators, and real-time market data — all in one powerful financial tool! 💹📊🌐🚀
 
