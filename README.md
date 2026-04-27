@@ -39,6 +39,10 @@
 ## 🔍 Projects I’m Proud Of  
 ## 🚀 Featured Streamlit Projects
 
+
+### 📈 [🚀 CreditPulse-AI Dashboard](https://creditpulse-ai-ow7sdnqsrbt6yf4ddtrxmc.streamlit.app/)  
+Autonomous AI risk engine for credit portfolios! 💳 Features a Live Policy Sandbox 🛠️, 3D Health Analytics 📊, and Real-Time Grading (Bad 🔴 to Excellent 💎) to automate financial auditing! 🤖⚖️
+
 ### 📈 [Multi Stock Predictor App](https://stock-predictor-app-cqwmt2o3nwmpti92u8n7j2.streamlit.app/)  
 AI-powered Streamlit app predicting stocks, crypto, forex & commodities 📈💹 + news summaries 📰🤖 for traders & learners! 🚀
 
