@@ -40,6 +40,9 @@
 ## 🚀 Featured Streamlit Projects
 
 
+### 📈 [📊 Moder 4C's Dynamic Policy Engine 🏗️](https://moder-4c-s-dynamic-policy-engine-am7fzqxlcyxmxyqxsfpugp.streamlit.app/)  
+Custom-built decision framework for Moder's US Mortgage division. Features interactive Policy Handlers ⚙️, 3D Underwriting Analytics 📈, and automated 4C's Audit Logging ⚖️ for high-volume night-shift operations. 🌙🚀
+
 ### 📈 [🚀 CreditPulse-AI Dashboard](https://creditpulse-ai-ow7sdnqsrbt6yf4ddtrxmc.streamlit.app/)  
 Autonomous AI risk engine for credit portfolios! 💳 Features a Live Policy Sandbox 🛠️, 3D Health Analytics 📊, and Real-Time Grading (Bad 🔴 to Excellent 💎) to automate financial auditing! 🤖⚖️
 
