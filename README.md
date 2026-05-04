@@ -39,6 +39,8 @@
 ## 🔍 Projects I’m Proud Of  
 ## 🚀 Featured Streamlit Projects
 
+### 📈 [💰 🚀 CapitalVantage: GenAI Financial Intelligence](https://5nemtiurhbntuup3etwc8f.streamlit.app/)  
+Autonomous Agent for Financial Auditing! 📊 Features a PDF-to-CSV Table Engine 🛠️, Dynamic Charting 📈, and RAG-powered Deep-Dive Analysis to automate manual document processing! 🤖💼
 
 ### 📈 [📊 Moder 4C's Dynamic Policy Engine 🏗️](https://moder-4c-s-dynamic-policy-engine-am7fzqxlcyxmxyqxsfpugp.streamlit.app/)  
 Custom-built decision framework for Moder's US Mortgage division. Features interactive Policy Handlers ⚙️, 3D Underwriting Analytics 📈, and automated 4C's Audit Logging ⚖️ for high-volume night-shift operations. 🌙🚀
