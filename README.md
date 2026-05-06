@@ -39,7 +39,7 @@
 ## 🔍 Projects I’m Proud Of  
 ## 🚀 Featured Streamlit Projects
 
-### 📈 [📈 📊 🚀 TransitionControl: AI-Driven BPO Intelligence](https://transition-command-center-hwyfkbtfvwcitg94dufcwg.streamlit.app/)  
+### [📈 📊 🚀 TransitionControl: AI-Driven BPO Intelligence](https://transition-command-center-hwyfkbtfvwcitg94dufcwg.streamlit.app/)  
 Autonomous Command Center for Global Business Migrations! 🌐 Features an Automated Risk-Detection Engine 🛠️, Dynamic Roadmaps 📈, and Executive PDF Reporting to automate manual project governance and eliminate transition gaps! 🤖💼
 
 ### 📈 [💰 🚀 CapitalVantage: GenAI Financial Intelligence](https://5nemtiurhbntuup3etwc8f.streamlit.app/)  
