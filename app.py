@@ -1,12 +1,11 @@
 import streamlit as st
 from datetime import datetime
 
-# --- AUTOMATIC EXPERIENCE CALCULATOR ---
-start_date = datetime(2022, 5, 1)  # May 2022
+# 1. AUTOMATIC EXPERIENCE CALCULATOR
+# This calculates years from your Kaggle registration (May 2022)
+start_date = datetime(2022, 5, 1)
 current_date = datetime.now()
-# Calculate total years (including decimals)
 experience_years = (current_date - start_date).days / 365.25
-# Format as a clean number (e.g., 4+)
 exp_display = f"{int(experience_years)}+"
 
 # Page Configuration
@@ -36,12 +35,12 @@ st.divider()
 
 # --- ABOUT ME SECTION ---
 st.header("🧑‍💼 About Me")
-st.markdown("""
-- 🎓 **{exp_display} years** of experience in Machine Learning & Data Analytics
-- 💼 **20+ years** in financial services, real estate, and capital markets  
-- 🥇 Kaggle contributor with medal-winning models  
-- 🔎 Expert in EDA, forecasting, dashboards & predictive modeling  
-- 💬 Proficient with Python, SQL, Tableau, pandas & scikit-learn
+st.write(f"""
+- 🎓 **{exp_display} years** of experience in Machine Learning & Data Analytics (Verified since May 2022)
+- 💼 **20+ years** in financial services, real estate, and capital markets
+- 🥇 **Kaggle contributor** with medal-winning models
+- 🔎 **Expert** in EDA, forecasting, dashboards & predictive modeling
+- 💬 **Proficient** with Python, SQL, Tableau, pandas & scikit-learn
 """)
 
 st.write("---")
