@@ -4,6 +4,30 @@ import base64
 from streamlit_pdf_viewer import pdf_viewer
 import pytz
 
+import streamlit as st
+
+# Inject custom CSS to create a border around the entire main content
+st.markdown(
+    """
+    <style>
+    /* Target the main app container */
+    .main .block-container {
+        border: 2px solid #4CAF50; /* Set your color and thickness */
+        padding: 3rem;             /* Space between border and content */
+        border-radius: 20px;       /* Rounded corners */
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# Your app content follows
+st.title("🚀 My Interactive AI Portfolio")
+st.write("Welcome to my bordered layout!")
+
 # --- LIVE DATE & TIME CALCULATION ---
 ist = pytz.timezone('Asia/Kolkata')
 now_ist = datetime.now(ist)
