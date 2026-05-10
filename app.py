@@ -67,21 +67,18 @@ with tab1:
 
 with tab2:
     st.subheader("Full Professional Resume")
-    
-    # PDF Handler
     try:
         with open("Srinivas_Tanakala_CV.pdf", "rb") as f:
             pdf_data = f.read()
             
-        # Download Button
         st.download_button(label="📥 Download Resume (PDF)", data=pdf_data, file_name="Srinivas_Tanakala_CV.pdf", mime="application/pdf")
         
-        # A4-style Viewer
+        # New encoding method using <embed> for better browser support
         base64_pdf = base64.b64encode(pdf_data).decode('utf-8')
-        pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="100%" height="1000" type="application/pdf"></iframe>'
+        pdf_display = f'<embed src="data:application/pdf;base64,{base64_pdf}" width="100%" height="1000" type="application/pdf">'
         st.markdown(pdf_display, unsafe_allow_html=True)
     except FileNotFoundError:
-        st.warning("⚠️ Resume PDF not found. Please upload 'Srinivas_Tanakala_CV.pdf' to your repository.")
+        st.warning("⚠️ Resume PDF not found. Ensure 'Srinivas_Tanakala_CV.pdf' is in your GitHub repository.")
 
 st.divider()
 st.info("💡 **Recruiter Tip:** Use the tabs above to switch between my live deployments and my full professional CV.")
