@@ -10,21 +10,15 @@ with col_head1:
     st.image("professional-profile1mb.png", width=180)
 
 with col_head2:
-    # Centered-style Header from your GitHub
-    st.markdown("""
-        <div style="text-align: left;">
-            <h1>Hi 👋, I'm Appala Srinivas Tanakala</h1>
-            <h3>
-                <img src="https://wikimedia.org" width="24" height="18" /> 
-                🚀 <b>Data Scientist</b> | 🧠 <b>AI + FinTech Explorer</b>
-            </h3>
-            <p>🛠️ <b>Streamlit Dev on GitHub</b> | 🌊 <b>Visakhapatnam, India</b></p>
-        </div>
-    """, unsafe_allow_html=True)
+    st.title("Hi 👋, I'm Appala Srinivas Tanakala")
+    
+    # Using a cleaner Markdown approach for the subheaders
+    st.markdown("### 🚀 **Data Scientist** | 🧠 **AI + FinTech Explorer**")
+    st.markdown("🛠️ **Streamlit Dev on GitHub** | 🌊 [**Visakhapatnam, India**](https://google.com)")
 
-    # FIX: Professional Shields.io Badges in a clean horizontal row
+    # Clean Horizontal Badges
     st.markdown("""
-        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+        <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
             <a href="https://linkedin.com"><img src="https://shields.io"></a>
             <a href="https://kaggle.com"><img src="https://shields.io"></a>
             <a href="mailto:tasrinivass@gmail.com"><img src="https://shields.io"></a>
