@@ -6,27 +6,32 @@ import pytz
 
 import streamlit as st
 
-# Inject custom CSS to create a border around the entire main content
+st.set_page_config(layout="wide") # Recommended for portfolio layouts
+
 st.markdown(
     """
     <style>
-    /* Target the main app container */
-    .main .block-container {
-        border: 2px solid #4CAF50; /* Set your color and thickness */
-        padding: 3rem;             /* Space between border and content */
-        border-radius: 20px;       /* Rounded corners */
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+    /* This targets the entire background container */
+    [data-testid="stAppViewContainer"] > .main {
+        border: 10px solid #4CAF50; /* Thick green border */
+        border-radius: 20px;
+        margin: 15px;
+        padding: 10px;
+        height: calc(100vh - 30px); /* Keeps it within the viewport */
+        overflow: auto;
+    }
+    
+    /* Removes default padding that might push the border off-screen */
+    [data-testid="stHeader"] {
+        background: transparent;
     }
     </style>
     """,
     unsafe_allow_html=True
 )
 
-# Your app content follows
-st.title("🚀 My Interactive AI Portfolio")
-st.write("Welcome to my bordered layout!")
+st.title("Border Test")
+st.write("If you see a thick green line, the CSS is working!")
 
 # --- LIVE DATE & TIME CALCULATION ---
 ist = pytz.timezone('Asia/Kolkata')
