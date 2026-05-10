@@ -64,7 +64,7 @@ with tab1:
         st.link_button("🔮 Quantum AI Crypto", "https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/")
 
     with col2:
-        st.header("🧠 Generative AI & CV")
+        st.header("🧠 Generative AI")
         st.link_button("🍲 Smart Bhojan: Nutrition AI", "https://smartbhojan-9hebtsjz3wun3adggzry6s.streamlit.app/")
         st.link_button("🎥 YouTube Summarizer", "https://geminitubesummarizer-5ra24rq4meqoogtkfbzpzt.streamlit.app/")
         st.link_button("🎤 Whisper AI Transcriber", "https://myvideosummarizer-g5xpetuztm8zfowruaeutm.streamlit.app/")
