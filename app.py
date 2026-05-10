@@ -4,7 +4,6 @@ import base64
 from streamlit_pdf_viewer import pdf_viewer
 import pytz
 
-import streamlit as st
 
 # MUST be the first streamlit command
 st.set_page_config(layout="wide")
