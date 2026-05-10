@@ -36,7 +36,7 @@ with col_head2:
     ### 👔 [LinkedIn](https://www.linkedin.com/in/srinivas-t-a-557637119/) | 📊 [Kaggle](https://kaggle.com/srinivasta) | 📧 [Email](mailto:tasrinivass@gmail.com) | 💻 [GitHub](https://github.com/srinivasta)
     """)
         # THE BIG HIGHLIGHT LINK
-    st.info("🌐 [**Explore My Interactive AI Portfolio & Digital Resume**](https://streamlit.app)")
+    st.info("🌐 [**Explore My Interactive AI Portfolio & Digital Resume**](https://srinivasta-rpof88cn8owuvgyk3w9jcy.streamlit.app/)")
 
     
 st.divider()
