@@ -10,17 +10,39 @@ with col_head1:
     st.image("professional-profile1mb.png", width=180)
 
 with col_head2:
-    st.title("Appala Srinivas Tanakala")
-    st.subheader("20+ Years Finance & Ops Expertise | 4+ Years AI & Data Science")
-    st.markdown("📍 **Visakhapatnam, India**")
-    
-    # Professional Shields.io Badges for Contact
+    # Centered-style Header from your GitHub
     st.markdown("""
-    [![LinkedIn](https://shields.io)](https://linkedin.com)
-    [![Kaggle](https://shields.io)](https://kaggle.com)
-    [![Email](https://shields.io)](mailto:tasrinivass@gmail.com)
-    [![GitHub](https://shields.io)](https://github.com)
+        <div style="text-align: left;">
+            <h1>Hi 👋, I'm Appala Srinivas Tanakala</h1>
+            <h3>
+                <img src="https://wikimedia.org" width="24" height="18" /> 
+                🚀 <b>Data Scientist</b> | 🧠 <b>AI + FinTech Explorer</b>
+            </h3>
+            <p>🛠️ <b>Streamlit Dev on GitHub</b> | 🌊 <b>Visakhapatnam, India</b></p>
+        </div>
     """, unsafe_allow_html=True)
+
+    # FIX: Professional Shields.io Badges in a clean horizontal row
+    st.markdown("""
+        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+            <a href="https://linkedin.com"><img src="https://shields.io"></a>
+            <a href="https://kaggle.com"><img src="https://shields.io"></a>
+            <a href="mailto:tasrinivass@gmail.com"><img src="https://shields.io"></a>
+            <a href="https://github.com"><img src="https://shields.io"></a>
+        </div>
+    """, unsafe_allow_html=True)
+
+st.write("---")
+
+# --- ABOUT ME SECTION ---
+st.header("🧑‍💼 About Me")
+st.markdown("""
+- 🎓 **4+ years** of experience in Machine Learning & Data Analytics  
+- 💼 **20+ years** in financial services, real estate, and capital markets  
+- 🥇 Kaggle contributor with medal-winning models  
+- 🔎 Expert in EDA, forecasting, dashboards & predictive modeling  
+- 💬 Proficient with Python, SQL, Tableau, pandas & scikit-learn
+""")
 
 st.write("---")
 
