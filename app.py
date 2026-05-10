@@ -16,14 +16,16 @@ with col_head2:
     st.markdown("### 🚀 **Data Scientist** | 🧠 **AI + FinTech Explorer**")
     st.markdown("🛠️ **Streamlit Dev on GitHub** | 🌊 [**Visakhapatnam, India**](https://google.com)")
 
-    # Clean Horizontal Badges
+# Create a horizontal row for your badges
+with st.container(border=False):
+    # This forces everything inside to sit on one line
     st.markdown("""
-        <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-            <a href="https://linkedin.com"><img src="https://shields.io"></a>
-            <a href="https://kaggle.com"><img src="https://shields.io"></a>
-            <a href="mailto:tasrinivass@gmail.com"><img src="https://shields.io"></a>
-            <a href="https://github.com"><img src="https://shields.io"></a>
-        </div>
+    <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+        <a href="https://linkedin.com"><img src="https://shields.io"></a>
+        <a href="https://kaggle.com"><img src="https://shields.io"></a>
+        <a href="mailto:tasrinivass@gmail.com"><img src="https://shields.io"></a>
+        <a href="https://github.com"><img src="https://shields.io"></a>
+    </div>
     """, unsafe_allow_html=True)
 
 st.write("---")
