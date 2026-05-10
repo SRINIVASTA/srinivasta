@@ -31,7 +31,7 @@ with col_head1:
 
 with col_head2:
     st.title("Hi 👋, I'm Appala Srinivas Tanakala")
-    st.markdown("💼 20+ Years Finance & Ops |### 🚀 **Data Scientist** | 🧠 **AI + FinTech Explorer**")
+    st.markdown("💼 20+ Years Finance & Ops |🚀 **Data Scientist** | 🧠 **AI + FinTech Explorer**")
     # Increased font size for the location and dev line
     # Added the 'f' before the quotes to enable the live clock
     st.markdown(f"""
