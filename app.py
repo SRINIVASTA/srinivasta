@@ -36,7 +36,7 @@ st.divider()
 # --- ABOUT ME SECTION ---
 st.header("🧑‍💼 About Me")
 st.write(f"""
-- 🎓 **{exp_display} years** of experience in Machine Learning & Data Analytics (Verified since May 2022)
+- 🎓 **{exp_display} years** of experience in Machine Learning & Data Analytics
 - 💼 **20+ years** in financial services, real estate, and capital markets
 - 🥇 **Kaggle contributor** with medal-winning models
 - 🔎 **Expert** in EDA, forecasting, dashboards & predictive modeling
