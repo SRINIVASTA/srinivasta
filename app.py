@@ -23,7 +23,7 @@ with col_head1:
 
 with col_head2:
     st.title("Hi 👋, I'm Appala Srinivas Tanakala")
-    st.markdown("### 🚀 **Data Scientist** | 🧠 **AI + FinTech Explorer**")
+    st.markdown("💼 20+ Years Finance & Ops |### 🚀 **Data Scientist** | 🧠 **AI + FinTech Explorer**")
     # Increased font size for the location and dev line
     st.markdown("""
         <p style='font-size: 22px; font-weight: 500; margin-top: -10px;'>
@@ -33,9 +33,12 @@ with col_head2:
     
     # Contact Row
     st.markdown("""
-    ### 👔 [LinkedIn](https://linkedin.com) | 📊 [Kaggle](https://kaggle.com/srinivasta) | 📧 [Email](mailto:tasrinivass@gmail.com) | 💻 [GitHub](https://github.com)
+    ### 👔 [LinkedIn](https://www.linkedin.com/in/srinivas-t-a-557637119/) | 📊 [Kaggle](https://kaggle.com/srinivasta) | 📧 [Email](mailto:tasrinivass@gmail.com) | 💻 [GitHub](https://github.com/srinivasta)
     """)
+        # THE BIG HIGHLIGHT LINK
+    st.info("🌐 [**Explore My Interactive AI Portfolio & Digital Resume**](https://streamlit.app)")
 
+    
 st.divider()
 
 # --- TABBED VIEW: PORTFOLIO VS RESUME ---
