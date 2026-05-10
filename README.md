@@ -8,7 +8,7 @@
 
 ### 🧑‍💼 About Me
 
-- 🎓 **3+ years** of experience in Machine Learning & Data Analytics  
+- 🎓 **4+ years** of experience in Machine Learning & Data Analytics  
 - 💼 **20+ years** in financial services, real estate, and capital markets  
 - 🥇 Kaggle contributor with medal-winning models  
 - 🔎 Expert in EDA, forecasting, dashboards & predictive modeling  
