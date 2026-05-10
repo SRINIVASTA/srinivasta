@@ -35,8 +35,9 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("Border Verification")
-st.write("If this doesn't show a green border, your browser might be caching an old version.")
+# st.title("Border Verification")
+# st.write("If this doesn't show a green border, your browser might be caching an old version.")
+
 # --- LIVE DATE & TIME CALCULATION ---
 ist = pytz.timezone('Asia/Kolkata')
 now_ist = datetime.now(ist)
