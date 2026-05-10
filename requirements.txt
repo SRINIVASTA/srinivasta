@@ -2,3 +2,4 @@ streamlit
 pandas
 datetime
 streamlit-pdf-viewer
+pytz
