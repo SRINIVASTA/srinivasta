@@ -1,4 +1,13 @@
 import streamlit as st
+from datetime import datetime
+
+# --- AUTOMATIC EXPERIENCE CALCULATOR ---
+start_date = datetime(2022, 5, 1)  # May 2022
+current_date = datetime.now()
+# Calculate total years (including decimals)
+experience_years = (current_date - start_date).days / 365.25
+# Format as a clean number (e.g., 4+)
+exp_display = f"{int(experience_years)}+"
 
 # Page Configuration
 st.set_page_config(page_title="Srinivas Tanakala | AI Portfolio", layout="wide", page_icon="🚀")
@@ -28,7 +37,7 @@ st.divider()
 # --- ABOUT ME SECTION ---
 st.header("🧑‍💼 About Me")
 st.markdown("""
-- 🎓 **4+ years** of experience in Machine Learning & Data Analytics  
+- 🎓 **{exp_display} years** of experience in Machine Learning & Data Analytics
 - 💼 **20+ years** in financial services, real estate, and capital markets  
 - 🥇 Kaggle contributor with medal-winning models  
 - 🔎 Expert in EDA, forecasting, dashboards & predictive modeling  
