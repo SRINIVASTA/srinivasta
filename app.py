@@ -7,7 +7,7 @@ st.set_page_config(page_title="Srinivas Tanakala | AI Portfolio", layout="wide",
 col_head1, col_head2 = st.columns([1, 4])
 
 with col_head1:
-    st.image("https://github.com", width=180)
+    st.image("https://github.com/srinivasta/srinivasta", width=180)
 
 with col_head2:
     st.title("Appala Srinivas Tanakala")
