@@ -1,8 +1,8 @@
 import streamlit as st
 from datetime import datetime
+import base64
 
 # 1. AUTOMATIC EXPERIENCE CALCULATOR
-# This calculates years from your Kaggle registration (May 2022)
 start_date = datetime(2022, 5, 1)
 current_date = datetime.now()
 experience_years = (current_date - start_date).days / 365.25
@@ -15,25 +15,23 @@ st.set_page_config(page_title="Srinivas Tanakala | AI Portfolio", layout="wide",
 col_head1, col_head2 = st.columns([1, 4])
 
 with col_head1:
-    st.image("professional-profile1mb.png", width=180)
+    try:
+        st.image("professional-profile1mb.png", width=180)
+    except:
+        st.write("👤")
 
 with col_head2:
     st.title("Hi 👋, I'm Appala Srinivas Tanakala")
-    
-    # Using a cleaner Markdown approach for the subheaders
     st.markdown("### 🚀 **Data Scientist** | 🧠 **AI + FinTech Explorer**")
     st.markdown("🛠️ **Streamlit Dev on GitHub** | 🌊 [**Visakhapatnam, India**](https://google.com)")
-    st.write("---")
-
-    # Clean, High-Visibility Contact Row with descriptive emojis
+    
+    # Contact Row
     st.markdown("""
     ### 👔 [LinkedIn](https://linkedin.com) | 📊 [Kaggle](https://kaggle.com) | 📧 [Email](mailto:tasrinivass@gmail.com) | 💻 [GitHub](https://github.com)
     """)
 
 st.divider()
 
-
-# --- ABOUT ME SECTION ---
 # --- TABBED VIEW: PORTFOLIO VS RESUME ---
 tab1, tab2 = st.tabs(["🚀 Live Portfolio", "📄 Professional CV"])
 
@@ -42,45 +40,48 @@ with tab1:
     st.markdown(f"**🎓 {exp_display} Years AI Experience** | **💼 20+ Years Finance Expertise**")
     st.write("Expert in leveraging AI tools and Python to deliver high-speed predictive modeling and risk assessment.")
     
-col1, col2 = st.columns(2)
+    # Projects Grid (Now correctly indented inside tab1)
+    col1, col2 = st.columns(2)
 
     with col1:
         st.header("🏢 FinTech & Business Intelligence")
-        st.link_button("📈 TransitionControl: BPO Command Center", "https://transition-command-center-hwyfkbtfvwcitg94dufcwg.streamlit.app/")
-        st.link_button("💰 CapitalVantage: GenAI Financial Auditor", "https://5nemtiurhbntuup3etwc8f.streamlit.app/")
-        st.link_button("💳 CreditPulse-AI: Risk Engine", "https://creditpulse-ai-ow7sdnqsrbt6yf4ddtrxmc.streamlit.app/")
-        st.link_button("🏗️ Moder 4C's: Mortgage Policy Engine", "https://moder-4c-s-dynamic-policy-engine-am7fzqxlcyxmxyqxsfpugp.streamlit.app/")
-        st.link_button("💹 Multi-Stock Predictor App", "https://stock-predictor-app-cqwmt2o3nwmpti92u8n7j2.streamlit.app/")
-        st.link_button("🏢 ConstructAI: Real Estate Dashboard", "https://gfxbyvznuvhyqbxwwyj4os.streamlit.app/")
+        st.link_button("📈 TransitionControl", "https://transition-command-center-hwyfkbtfvwcitg94dufcwg.streamlit.app/")
+        st.link_button("💰 CapitalVantage Auditor", "https://5nemtiurhbntuup3etwc8f.streamlit.app/")
+        st.link_button("💳 CreditPulse-AI", "https://creditpulse-ai-ow7sdnqsrbt6yf4ddtrxmc.streamlit.app/")
+        st.link_button("🏗️ Moder 4C's Engine", "https://moder-4c-s-dynamic-policy-engine-am7fzqxlcyxmxyqxsfpugp.streamlit.app/")
+        st.link_button("💹 Multi-Stock Predictor", "https://stock-predictor-app-cqwmt2o3nwmpti92u8n7j2.streamlit.app/")
+        st.link_button("🏢 ConstructAI Dashboard", "https://gfxbyvznuvhyqbxwwyj4os.streamlit.app/")
         st.link_button("📊 Real-time Sales Dashboard", "https://real-time-sales-dashboard-key6zivh5fnkane3t8x6v2.streamlit.app/")
-        st.link_button("🔮 Quantum AI Crypto Portfolio", "https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/")
+        st.link_button("🔮 Quantum AI Crypto", "https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app/")
 
     with col2:
-        st.header("🧠 Generative AI & Computer Vision")
+        st.header("🧠 Generative AI & CV")
         st.link_button("🍲 Smart Bhojan: Nutrition AI", "https://smartbhojan-9hebtsjz3wun3adggzry6s.streamlit.app/")
-        st.link_button("🎥 YouTube Video Summarizer", "https://geminitubesummarizer-5ra24rq4meqoogtkfbzpzt.streamlit.app/")
+        st.link_button("🎥 YouTube Summarizer", "https://geminitubesummarizer-5ra24rq4meqoogtkfbzpzt.streamlit.app/")
         st.link_button("🎤 Whisper AI Transcriber", "https://myvideosummarizer-g5xpetuztm8zfowruaeutm.streamlit.app/")
         st.link_button("🎨 Gemini AI Image Generator", "https://gemini-image-generator-bdyowfxxqb4q5htbrrgjzv.streamlit.app/")
         st.link_button("🤖 Multi-Agent Chatbot", "https://multi-agent-chatbot-yv35yj5g7obpbibcxnwrme.streamlit.app/")
         st.link_button("🖼️ Photo Background Changer", "https://photo-bg-changer-kdrxyvhjx3ibr4ccoddm3f.streamlit.app/")
-        st.link_button("🛠️ AI Super Tool (All-in-One)", "https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app/")
-        st.link_button("🩺 Heart Failure Risk Predictor", "https://heartfailure-gaufwbwfmh2j2u8ytzfmm5.streamlit.app/")
+        st.link_button("🛠️ AI Super Tool", "https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app/")
+        st.link_button("🩺 Heart Failure Risk", "https://heartfailure-gaufwbwfmh2j2u8ytzfmm5.streamlit.app/")
 
 with tab2:
     st.subheader("Full Professional Resume")
     
-    # 1. Provide a Download Button
+    # PDF Handler
     try:
         with open("Srinivas_Tanakala_CV.pdf", "rb") as f:
             pdf_data = f.read()
+            
+        # Download Button
         st.download_button(label="📥 Download Resume (PDF)", data=pdf_data, file_name="Srinivas_Tanakala_CV.pdf", mime="application/pdf")
         
-        # 2. Embed PDF in A4-style Viewer
+        # A4-style Viewer
         base64_pdf = base64.b64encode(pdf_data).decode('utf-8')
         pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="100%" height="1000" type="application/pdf"></iframe>'
         st.markdown(pdf_display, unsafe_allow_html=True)
     except FileNotFoundError:
-        st.error("Resume PDF not found. Please upload 'Srinivas_Tanakala_CV.pdf' to your GitHub repository.")
+        st.warning("⚠️ Resume PDF not found. Please upload 'Srinivas_Tanakala_CV.pdf' to your repository.")
 
 st.divider()
 st.info("💡 **Recruiter Tip:** Use the tabs above to switch between my live deployments and my full professional CV.")
