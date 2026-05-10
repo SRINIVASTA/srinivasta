@@ -2,6 +2,14 @@ import streamlit as st
 from datetime import datetime
 import base64
 from streamlit_pdf_viewer import pdf_viewer
+import pytz
+
+# --- LIVE DATE & TIME CALCULATION ---
+ist = pytz.timezone('Asia/Kolkata')
+now_ist = datetime.now(ist)
+# Formats as: 10 May 2026 | 13:04
+live_date_time = now_ist.strftime('%d %b %Y | %H:%M')
+
 
 # 1. AUTOMATIC EXPERIENCE CALCULATOR
 start_date = datetime(2022, 5, 1)
@@ -27,7 +35,7 @@ with col_head2:
     # Increased font size for the location and dev line
     st.markdown("""
         <p style='font-size: 22px; font-weight: 500; margin-top: -10px;'>
-            🛠️ <b>Streamlit Dev on GitHub</b> | 🌊 <b>Visakhapatnam, India</b>
+            🛠️ <b>Streamlit Dev on GitHub</b> | 🌊 <b>Visakhapatnam, India</b> | 🕒 <b>{live_date_time} (UTC +05:30)</b>
         </p>
     """, unsafe_allow_html=True)
     
