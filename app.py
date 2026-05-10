@@ -33,7 +33,8 @@ with col_head2:
     st.title("Hi 👋, I'm Appala Srinivas Tanakala")
     st.markdown("💼 20+ Years Finance & Ops |### 🚀 **Data Scientist** | 🧠 **AI + FinTech Explorer**")
     # Increased font size for the location and dev line
-    st.markdown("""
+    # Added the 'f' before the quotes to enable the live clock
+    st.markdown(f"""
         <p style='font-size: 22px; font-weight: 500; margin-top: -10px;'>
             🛠️ <b>Streamlit Dev on GitHub</b> | 🌊 <b>Visakhapatnam, India</b> | 🕒 <b>{live_date_time} (UTC +05:30)</b>
         </p>
