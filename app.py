@@ -1,6 +1,7 @@
 import streamlit as st
 from datetime import datetime
 import base64
+from streamlit_pdf_viewer import pdf_viewer
 
 # 1. AUTOMATIC EXPERIENCE CALCULATOR
 start_date = datetime(2022, 5, 1)
@@ -65,20 +66,32 @@ with tab1:
         st.link_button("🛠️ AI Super Tool", "https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app/")
         st.link_button("🩺 Heart Failure Risk", "https://heartfailure-gaufwbwfmh2j2u8ytzfmm5.streamlit.app/")
 
+from streamlit_pdf_viewer import pdf_viewer
+
 with tab2:
     st.subheader("Full Professional Resume")
+    
+    # 1. Path to your PDF in the GitHub repo
+    pdf_file_path = "Srinivas_Tanakala_CV.pdf"
+    
     try:
-        with open("Srinivas_Tanakala_CV.pdf", "rb") as f:
-            pdf_data = f.read()
-            
-        st.download_button(label="📥 Download Resume (PDF)", data=pdf_data, file_name="Srinivas_Tanakala_CV.pdf", mime="application/pdf")
+        # 2. Add a direct download button first
+        with open(pdf_file_path, "rb") as f:
+            pdf_bytes = f.read()
         
-        # New encoding method using <embed> for better browser support
-        base64_pdf = base64.b64encode(pdf_data).decode('utf-8')
-        pdf_display = f'<embed src="data:application/pdf;base64,{base64_pdf}" width="100%" height="1000" type="application/pdf">'
-        st.markdown(pdf_display, unsafe_allow_html=True)
+        st.download_button(
+            label="📥 Download Resume (PDF)",
+            data=pdf_bytes,
+            file_name="Srinivas_Tanakala_CV.pdf",
+            mime="application/pdf"
+        )
+        
+        # 3. High-compatibility PDF Viewer
+        # This component renders the PDF directly in the app
+        pdf_viewer(pdf_file_path, width=800, height=1000)
+        
     except FileNotFoundError:
-        st.warning("⚠️ Resume PDF not found. Ensure 'Srinivas_Tanakala_CV.pdf' is in your GitHub repository.")
+        st.error("⚠️ Resume PDF not found. Please ensure 'Srinivas_Tanakala_CV.pdf' is uploaded to your GitHub repository.")
 
 st.divider()
 st.info("💡 **Recruiter Tip:** Use the tabs above to switch between my live deployments and my full professional CV.")
