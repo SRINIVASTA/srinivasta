@@ -12,8 +12,15 @@ with col_head1:
 with col_head2:
     st.title("Appala Srinivas Tanakala")
     st.subheader("20+ Years Finance & Ops Expertise | 4+ Years AI & Data Science")
-    st.markdown("📍 Visakhapatnam, India | [LinkedIn](https://www.linkedin.com/in/srinivas-t-a-557637119/) | [GitHub](https://github.com/srinivasta)")
-    st.write("📧 tasrinivass@gmail.com")
+    st.markdown("📍 **Visakhapatnam, India**")
+    
+    # Professional Shields.io Badges for Contact
+    st.markdown("""
+    [![LinkedIn](https://shields.io)](https://linkedin.com)
+    [![Kaggle](https://shields.io)](https://kaggle.com)
+    [![Email](https://shields.io)](mailto:tasrinivass@gmail.com)
+    [![GitHub](https://shields.io)](https://github.com)
+    """, unsafe_allow_html=True)
 
 st.write("---")
 
