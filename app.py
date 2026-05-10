@@ -6,33 +6,38 @@ import pytz
 
 import streamlit as st
 
-st.set_page_config(layout="wide") # Recommended for portfolio layouts
+# MUST be the first streamlit command
+st.set_page_config(layout="wide")
 
 st.markdown(
     """
     <style>
-    /* This targets the entire background container */
-    [data-testid="stAppViewContainer"] > .main {
-        border: 10px solid #4CAF50; /* Thick green border */
-        border-radius: 20px;
-        margin: 15px;
-        padding: 10px;
-        height: calc(100vh - 30px); /* Keeps it within the viewport */
-        overflow: auto;
+    /* 1. Target the absolute outer container */
+    .stApp {
+        border: 5px solid #4CAF50 !important;
+        border-radius: 15px;
+        margin: 10px;
+        padding: 0px;
+    }
+
+    /* 2. Target the main content area specifically */
+    .stMain {
+        border: 2px solid #2e7d32 !important;
+        border-radius: 10px;
+        margin: 10px;
     }
     
-    /* Removes default padding that might push the border off-screen */
-    [data-testid="stHeader"] {
-        background: transparent;
+    /* 3. Ensure the border is visible even with scrolling */
+    [data-testid="stAppViewContainer"] {
+        padding: 10px;
     }
     </style>
     """,
     unsafe_allow_html=True
 )
 
-st.title("Border Test")
-st.write("If you see a thick green line, the CSS is working!")
-
+st.title("Border Verification")
+st.write("If this doesn't show a green border, your browser might be caching an old version.")
 # --- LIVE DATE & TIME CALCULATION ---
 ist = pytz.timezone('Asia/Kolkata')
 now_ist = datetime.now(ist)
