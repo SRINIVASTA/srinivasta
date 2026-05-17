@@ -6,13 +6,12 @@
 
 ---
 
-### 💖 Sponsor Me
+### 💖 [Sponsor Me](https://github.com/sponsors/SRINIVASTA)
 
 ### 💖 Support My Work
 
 ☕ If my code saved you time or solved a problem for you, feel free to buy me a coffee! You can support my work via [GitHub Sponsors](https://github.com/sponsors/SRINIVASTA). Thank you for your kindness!
 
-[![GitHub Sponsor](https://shields.io)](https://github.com)
 
 ---
 
