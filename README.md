@@ -8,13 +8,11 @@
 
 ### 💖 Sponsor Me
 
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Sponsor Me" />
-  </a>
-</p>
+### 💖 Support My Work
 
-☕ If my code saved you time or solved a problem for you, feel free to buy me a coffee! You can support my work via [GitHub Sponsors](https://github.com). Thank you for your kindness!
+☕ If my code saved you time or solved a problem for you, feel free to buy me a coffee! You can support my work via [GitHub Sponsors](https://github.com/sponsors/SRINIVASTA). Thank you for your kindness!
+
+[![Sponsor Me](https://shields.io)](https://github.com/sponsors/SRINIVASTA)
 
 ---
 
