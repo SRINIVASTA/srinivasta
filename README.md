@@ -4,6 +4,17 @@
   🚀 <b>Data Scientist</b> | 🧠 <b>AI + FinTech Explorer</b> | 🛠️ <b>Streamlit Dev on GitHub</b> | 🌊 <b><a href="https://www.google.com/maps/place/Visakhapatnam,+Andhra+Pradesh,+India/" target="_blank" style="text-decoration: none; color: inherit;">Visakhapatnam</a></b>
 </h3>
 
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Sponsor Me" />
+  </a>
+</p>
+
+<p align="center">
+  ☕ <i>If my code saved you time or solved a problem for you, feel free to buy me a coffee! You can support my work via <a href="https://github.com">GitHub Sponsors</a>. Thank you for your kindness!</i>
+</p>
+
+---
 ---
 
 ### 🧑‍💼 About Me
