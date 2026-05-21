@@ -87,39 +87,39 @@ with tab1:
 
     with col1:
         st.header("🏢 FinTech & Business Intelligence")
-    
-        # --- Production Platforms (Highest Priority) ---
+      
+        st.markdown("### 📈 Production Platforms")
         st.link_button("📈 TransitionControl", "https://transition-command-center-hwyfkbtfvwcitg94dufcwg.streamlit.app/")
         st.link_button("💰 CapitalVantage Auditor", "https://5nemtiurhbntuup3etwc8f.streamlit.app/")
         st.link_button("💳 CreditPulse-AI", "https://creditpulse-ai-ow7sdnqsrbt6yf4ddtrxmc.streamlit.app/")
         st.link_button("🏗️ Moder 4C's Engine", "https://moder-4c-s-dynamic-policy-engine-am7fzqxlcyxmxyqxsfpugp.streamlit.app")
     
-        # --- Analytical Tools & Dashboards (Medium Priority) ---
+        st.markdown("### 📊 Analytical Tools & Dashboards")
         st.link_button("📊 Real-time Sales Dashboard", "https://real-time-sales-dashboard-key6zivh5fnkane3t8x6v2.streamlit.app")
         st.link_button("🏢 ConstructAI Dashboard", "https://gfxbyvznuvhyqbxwwyj4os.streamlit.app")
         st.link_button("🔮 Quantum AI Crypto", "https://quantum-ai-portfolio-bffydmzkdbtjaejwf6huvh.streamlit.app")
         st.link_button("💹 Multi-Stock Predictor", "https://stock-predictor-app-cqwmt2o3nwmpti92u8n7j2.streamlit.app")
         st.link_button("📊 Stock Analysis Combo", "https://stock-analysis-combo-c7zmpbn2skp5h8rnrpchdy.streamlit.app/") 
     
-        # --- Automation & Pipelines (Utility Priority) ---
+        st.markdown("### ⚙️ Automation & Pipelines")
         st.link_button("🧪 Fintech Regression Automation", "https://fintech-regression-automation-xmg7yrkex5apmvc29knpxl.streamlit.app/") 
         st.link_button("🛰️ Etihad Telemetry Pipeline", "https://etihad-telemetry-pipeline-hoxpbysyd8exh9xwrwjezj.streamlit.app/") 
 
     with col2:
         st.header("🧠 Generative AI & Operations")
     
-        # --- Advanced GenAI Platforms (Highest Priority) ---
+        st.markdown("### ⭐ Advanced GenAI Platforms")
         st.link_button("💼 AI Recruiter", "https://airecruiter-bjhauwjq4ncyh6p8q7diot.streamlit.app/") 
         st.link_button("🤖 Multi-Agent Chatbot", "https://multi-agent-chatbot-yv35yj5g7obpbibcxnwrme.streamlit.app")
         st.link_button("🎨 Gemini AI Image Generator", "https://gemini-image-generator-bdyowfxxqb4q5htbrrgjzv.streamlit.app")
     
-        # --- Specialized Intelligence Tools (Medium Priority) ---
+        st.markdown("### 📊 Specialized Intelligence Tools")
         st.link_button("🍲 Smart Bhojan: Nutrition AI", "https://smartbhojan-9hebtsjz3wun3adggzry6s.streamlit.app")
         st.link_button("🎥 YouTube Summarizer", "https://geminitubesummarizer-5ra24rq4meqoogtkfbzpzt.streamlit.app")
         st.link_button("🎤 Whisper AI Transcriber", "https://myvideosummarizer-g5xpetuztm8zfowruaeutm.streamlit.app")
         st.link_button("🩺 Heart Failure Risk", "https://heartfailure-gaufwbwfmh2j2u8ytzfmm5.streamlit.app")
     
-        # --- Basic Utilities & Training (Utility Priority) ---
+        st.markdown("### ⚙️ Basic Utilities & Training")
         st.link_button("🛠️ AI Super Tool", "https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app")
         st.link_button("🖼️ Photo Background Changer", "https://photo-bg-changer-kdrxyvhjx3ibr4ccoddm3f.streamlit.app")
         st.link_button("🌡️ Temperature Forecasting App", "https://example.com") 
