@@ -3,10 +3,12 @@ from datetime import datetime
 import base64
 from streamlit_pdf_viewer import pdf_viewer
 import pytz
+import qrcode
+from PIL import Image
+from io import BytesIO
 
-
-# MUST be the first streamlit command
-st.set_page_config(layout="wide")
+# MUST be the absolute first streamlit command (Merged previous duplicates)
+st.set_page_config(page_title="Srinivas Tanakala | AI Portfolio", layout="wide", page_icon="🚀")
 
 st.markdown(
     """
@@ -35,24 +37,16 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# st.title("Border Verification")
-# st.write("If this doesn't show a green border, your browser might be caching an old version.")
-
 # --- LIVE DATE & TIME CALCULATION ---
 ist = pytz.timezone('Asia/Kolkata')
 now_ist = datetime.now(ist)
-# Formats as: 10 May 2026 | 13:04
 live_date_time = now_ist.strftime('%d %b %Y | %H:%M')
-
 
 # 1. AUTOMATIC EXPERIENCE CALCULATOR
 start_date = datetime(2022, 5, 1)
 current_date = datetime.now()
 experience_years = (current_date - start_date).days / 365.25
 exp_display = f"{int(experience_years)}+"
-
-# Page Configuration
-st.set_page_config(page_title="Srinivas Tanakala | AI Portfolio", layout="wide", page_icon="🚀")
 
 # Header Section
 col_head1, col_head2 = st.columns([1, 4])
@@ -66,8 +60,6 @@ with col_head1:
 with col_head2:
     st.title("Hi 👋, I'm Appala Srinivas Tanakala")
     st.markdown("💼 20+ Years Finance & Ops |🚀 **Data Scientist** | 🧠 **AI + FinTech Explorer**")
-    # Increased font size for the location and dev line
-    # Added the 'f' before the quotes to enable the live clock
     st.markdown(f"""
         <p style='font-size: 22px; font-weight: 500; margin-top: -10px;'>
             🛠️ <b>Streamlit Dev on GitHub</b> | 🌊 <b>Visakhapatnam, India</b> | 🕒 <b>{live_date_time} (UTC +05:30)</b>
@@ -78,9 +70,7 @@ with col_head2:
     st.markdown("""
     ### 👔 [LinkedIn](https://www.linkedin.com/in/srinivas-t-a-557637119/) | 📊 [Kaggle](https://kaggle.com/srinivasta) | 📧 [Email](mailto:tasrinivass@gmail.com) | 💻 [GitHub](https://github.com/srinivasta)
     """)
-        # THE BIG HIGHLIGHT LINK
     st.info("🌐 [**Explore My Interactive AI Portfolio & Digital Resume**](https://srinivasta-rpof88cn8owuvgyk3w9jcy.streamlit.app/)")
-
     
 st.divider()
 
@@ -92,7 +82,7 @@ with tab1:
     st.markdown(f"**🎓 {exp_display} Years AI Experience** | **💼 20+ Years Finance Expertise**")
     st.write("Expert in leveraging AI tools and Python to deliver high-speed predictive modeling and risk assessment.")
     
-    # Projects Grid (Now correctly indented inside tab1)
+    # Projects Grid
     col1, col2 = st.columns(2)
 
     with col1:
@@ -117,16 +107,11 @@ with tab1:
         st.link_button("🛠️ AI Super Tool", "https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app/")
         st.link_button("🩺 Heart Failure Risk", "https://heartfailure-gaufwbwfmh2j2u8ytzfmm5.streamlit.app/")
 
-from streamlit_pdf_viewer import pdf_viewer
-
 with tab2:
     st.subheader("Full Professional Resume")
-    
-    # 1. Path to your PDF in the GitHub repo
     pdf_file_path = "Srinivas_Tanakala_CV.pdf"
     
     try:
-        # 2. Add a direct download button first
         with open(pdf_file_path, "rb") as f:
             pdf_bytes = f.read()
         
@@ -136,13 +121,30 @@ with tab2:
             file_name="Srinivas_Tanakala_CV.pdf",
             mime="application/pdf"
         )
-        
-        # 3. High-compatibility PDF Viewer
-        # This component renders the PDF directly in the app
         pdf_viewer(pdf_file_path, width=800, height=1000)
         
     except FileNotFoundError:
         st.error("⚠️ Resume PDF not found. Please ensure 'Srinivas_Tanakala_CV.pdf' is uploaded to your GitHub repository.")
 
 st.divider()
-st.info("💡 **Recruiter Tip:** Use the tabs above to switch between my live deployments and my full professional CV.")
+
+# --- FOOTER SECTION WITH QR CODE ---
+col_foot1, col_foot2 = st.columns([3, 1])
+
+with col_foot1:
+    st.info("💡 **Recruiter Tip:** Use the tabs above to switch between my live deployments and my full professional CV.")
+    st.markdown("💡 *“Bridging two decades of financial wisdom with modern AI to deliver real-world, data-powered solutions.”*")
+
+with col_foot2:
+    # Generate QR Code dynamically targeting your live portfolio
+    portfolio_url = "https://srinivasta-rpof88cn8owuvgyk3w9jcy.streamlit.app/"
+    qr = qrcode.QRCode(version=1, box_size=10, border=2)
+    qr.add_data(portfolio_url)
+    qr.make(fit=True)
+    
+    img = qr.make_image(fill_color="#2e7d32", back_color="white") # Custom green color matching your UI borders!
+    buf = BytesIO()
+    img.save(buf, format="PNG")
+    byte_im = buf.getvalue()
+    
+    st.image(byte_im, caption="📱 Scan to Share Webapp", width=160)
