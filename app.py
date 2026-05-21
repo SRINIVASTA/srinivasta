@@ -122,7 +122,7 @@ with tab1:
         st.markdown("### ⚙️ Basic Utilities & Training")
         st.link_button("🛠️ AI Super Tool", "https://ai-super-tool-uxhxpvn4lqyc7szmsdqtl8.streamlit.app")
         st.link_button("🖼️ Photo Background Changer", "https://photo-bg-changer-kdrxyvhjx3ibr4ccoddm3f.streamlit.app")
-        st.link_button("🌡️ Temperature Forecasting App", "https://example.com") 
+        st.link_button("🌡️ Temperature Forecasting App", "https://temperature-forecasting-app-9ffwo5g3we4onfokxpca4g.streamlit.app/") 
         st.link_button("📱 Generated QR Code", "https://generatedqrcode-o4c9u7iprbc9bzkqrxqu4j.streamlit.app/") 
         st.link_button("📝 MS Office Training", "https://ms-office-training-zokxafpvnvpaoyxjyz5vtk.streamlit.app/") 
 with tab2:
