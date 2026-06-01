@@ -3,8 +3,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="24" height="18" style="vertical-align:middle;" />
   🚀 <b>Data Scientist</b> | 🧠 <b>AI + FinTech Explorer</b> | 🛠️ <b>Streamlit Dev on GitHub</b> | 🌊 <b><a href="https://www.google.com/maps/place/Visakhapatnam,+Andhra+Pradesh,+India/" target="_blank" style="text-decoration: none; color: inherit;">Visakhapatnam</a></b>
 </h3>
-<img src="https://komarev.com" alt="Profile Views" />
----
+[<img src="https://komarev.com" alt="Profile Views" />
+](https://github.com/srinivasta)---
 
 ### 💖 [Sponsor Me](https://github.com/sponsors/SRINIVASTA)
 
