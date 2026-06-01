@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+  <img src="https://shields.io" alt="Profile Views" />
 </p>
 
 ---
