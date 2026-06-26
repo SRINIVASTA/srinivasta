@@ -48,8 +48,8 @@
 ## 🔍 Projects I’m Proud Of  
 ## 🚀 Featured Streamlit Projects
 
-### [🍲 🥗 🥘 Smart Bhojan: AI-Driven Nutrition & Recipe Intelligence](https://smartbhojan-9hebtsjz3wun3adggzry6s.streamlit.app/)  
-Autonomous Dashboard for Personalized Healthy Eating! 🌐 Features an Automated Health-Scoring Engine 🛠️, Dynamic Macronutrient Visualizations 📈, and Professional PDF Recipe Reporting to automate nutrition tracking and eliminate dietary guesswork! 🤖🥗
+### [🍲 🥗 🥘 Smart Bhojan: AI-Driven Nutrition & Recipe Intelligence](https://smartbhojan-9hebtsjz3wun3adggzry6s.streamlit.app/) | [💻 View Source Code](https://github.com](https://github.com/SRINIVASTA/SmartBhojan)  
+Autonomous Dashboard for Personalized Healthy Eating! 🌐 Features an Automated Health-Scoring Engine 🛠️, Dynamic Macronutrient Visualizations 📈, and Professional PDF Recipe Reporting...
 
 ### [📈 📊 🚀 TransitionControl: AI-Driven BPO Intelligence](https://transition-command-center-hwyfkbtfvwcitg94dufcwg.streamlit.app/)  
 Autonomous Command Center for Global Business Migrations! 🌐 Features an Automated Risk-Detection Engine 🛠️, Dynamic Roadmaps 📈, and Executive PDF Reporting to automate manual project governance and eliminate transition gaps! 🤖💼
