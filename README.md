@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Appala Srinivas Tanakala (T A Srinivas)</h1>
 <h3 align="center">
-  <img src="https://wikimedia.org" alt="India Flag" width="24" height="18" style="vertical-align:middle;" />
-  🚀 <b>Data Scientist</b> | 📊 <b>20+ Yrs Finance Expert</b> | 🤖 <b>Agentic AI Architect</b> | 🌊 <b><a href="https://google.com" target="_blank" style="text-decoration: none; color: inherit;">Visakhapatnam, India</a></b>
+  🇮🇳 🚀 <b>Data Scientist</b> | 📊 <b>20+ Yrs Finance Expert</b> | 🤖 <b>Agentic AI Architect</b> | 🌊 <b><a href="https://google.com" target="_blank" style="text-decoration: none; color: inherit;">Visakhapatnam, India</a></b>
 </h3>
 
 ---
 
 <table>
   <tr>
-    <td>
+    <td width="55%">
       <h3>🧑‍💼 About Me</h3>
       <ul>
         <li>🎓 <b>4+ years</b> of engineering Machine Learning pipelines & AI tools.</li>
@@ -21,8 +20,8 @@
         📄 <b>Interactive CV:</b> <a href="https://github.com" target="_blank">Download Resume PDF</a>
       </p>
     </td>
-    <td>
-      <img src="https://vercel.app" alt="Srinivasta's GitHub Stats" />
+    <td width="45%" align="center">
+      <img src="https://vercel.app" alt="Srinivasta GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -98,9 +97,9 @@
 
 ### 📘 Core Certifications
 * 🛰️ **AI/ML for Geodata Analysis** – IIRS / Indian Space Research Organisation (ISRO) (2024)
-* 📊 **Data Analyst / Business Analyst** – ExcelR (2022)
-* 🧠 **AI Masterclass Ecosystems** – ExcelR (2022)
-* 🤖 **Machine Learning Architectures** – Tata Steel (2020)
+* **📊 Data Analyst / Business Analyst** – ExcelR (2022)
+* **🧠 AI Masterclass Ecosystems** – ExcelR (2022)
+* **🤖 Machine Learning Architectures** – Tata Steel (2020)
 
 ---
 
@@ -113,10 +112,10 @@
 
 ### 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-t-a-557637119/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/srinivasta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasrinivass@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SRINIVASTA)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Kaggle](https://shields.io)](https://kaggle.com)
+[![Email](https://shields.io)](mailto:tasrinivass@gmail.com)
+[![GitHub](https://shields.io)](https://github.com)
 
 ---
 > 💡 *“Bridging two decades of structural financial wisdom with modern generative AI to deliver robust, data-powered systems.”*
