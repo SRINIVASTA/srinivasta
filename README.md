@@ -147,7 +147,7 @@ Interactive dashboard for analyzing trends and performance of Nifty 50 stocks us
 - [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/srinivasta)  
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasrinivass@gmail.com)  
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinivasta)
-- [![Website](https://img.shields.io/badge/logo=githubpages&color=228B22?style=for-the-badge&logo=website&logoColor=white)](https://srinivasta/github.io)
+- [![Website](https://img.shields.io/badge/Wesbiter=#149EF2?style=for-the-badge&logo=website&logoColor=white)](https://srinivasta/github.io)
 
 ---
 
