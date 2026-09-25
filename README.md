@@ -140,6 +140,16 @@ Interactive dashboard for analyzing trends and performance of Nifty 50 stocks us
 - 🎯 Expert at combining industry knowledge with AI-driven solutions
 
 ---
+### 📊 My Live GitHub Metrics (Updates Automatically)
+<p align="left">
+  <img src="https://vercel.app" alt="Srinivas's GitHub Stats" height="160" />
+  <img src="https://herokuapp.com" alt="Srinivas's Streak Stats" height="160" />
+</p>
+
+<p align="left">
+  <img src="https://vercel.app" alt="Srinivas's Trophies" />
+</p>
+---
 
 ### 🌐 Let’s Connect
 
