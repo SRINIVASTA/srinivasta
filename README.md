@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Appala Srinivas Tanakala</h1>
 
+<p align="center">
+  <img src="https://shields.io" alt="Total Stars" />
+  <img src="https://shields.io" alt="Followers" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SRINIVASTA">
+    <img src="https://vercel.app" alt="SRINIVASTA's GitHub Stats" />
+  </a>
+</p>
 ---
 <h3 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="24" height="18" style="vertical-align:middle;" />
